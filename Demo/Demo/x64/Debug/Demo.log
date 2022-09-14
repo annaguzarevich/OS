@@ -1,0 +1,7 @@
+﻿  Demo.cpp
+A:\Practice\Lab1_Win\Vector\Vector\Vector.h(29,12): warning C4251: Vector::x: class "Number" должен иметь dll-интерфейс для использования клиентами class "Vector"
+A:\Practice\Lab1_Win\Number\Number\Number.h(3): message : см. объявление "Number"
+A:\Practice\Lab1_Win\Vector\Vector\Vector.h(30,12): warning C4251: Vector::y: class "Number" должен иметь dll-интерфейс для использования клиентами class "Vector"
+A:\Practice\Lab1_Win\Number\Number\Number.h(3): message : см. объявление "Number"
+  Demo.vcxproj -> A:\Practice\Lab1_Win\Demo\x64\Debug\Demo.exe
+  Скопировано файлов: 0.
